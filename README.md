@@ -11,3 +11,5 @@ Few codesamples
 *TpcNotificationServicePushHandler.swift* - notification service extension
 
 *AppDelegate.mm* - some native modifictaions in ios app delegate
+
+*codepush_sourcemaps.js* - some JS scripting for OTA updates
